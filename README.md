@@ -34,7 +34,7 @@ Dataset link:https://archive.ics.uci.edu/dataset/222/bank+marketing
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/vaidehii203/PRODIGY_DS_03.git
-   cd decision-tree-classifier
+  
    ```
 
 2. **Install Dependencies:**
